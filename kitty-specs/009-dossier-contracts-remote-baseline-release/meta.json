@@ -6,6 +6,7 @@
   "mission_slug": "009-dossier-contracts-remote-baseline-release",
   "mission_type": "software-dev",
   "slug": "009-dossier-contracts-remote-baseline-release",
+  "status_phase": "1",
   "target_branch": "2.x",
   "vcs": "git",
   "vcs_locked_at": "2026-02-23T00:00:00.000000+00:00"

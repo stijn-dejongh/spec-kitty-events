@@ -6,6 +6,7 @@
   "mission_slug": "011-wp03-decisionpoint-lifecycle-contracts",
   "mission_type": "software-dev",
   "slug": "011-wp03-decisionpoint-lifecycle-contracts",
+  "status_phase": "1",
   "target_branch": "main",
   "vcs": "git",
   "vcs_locked_at": "2026-02-27T11:06:47.770328+00:00"
